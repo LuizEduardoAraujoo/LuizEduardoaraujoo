@@ -21,10 +21,10 @@ Estou cursando Ciências da Computação na UNICSUL,sempre busco aprender e acom
 <br></br>
 
 <div align="center" style="display:inline_block">​​
-  <a href="https://github.com/LuizEduardoAraujoo " >​ ​​​​​​
-  <img  height = " 180em "  src = "https://github-readme-stats.vercel.app/api?username=LuizEduardoAraujoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true "/>
-  <img  height = " 180em "  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoAraujoo&layout=compact&langs_count=16&theme=dark "/>
-</div>
+  <a href="https://github.com/LuizEduardoAraujoo">​ ​​​​​​
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoAraujoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoAraujoo&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 
 
 <div style="display: inline_block" align="center"><br>
@@ -44,5 +44,5 @@ Estou cursando Ciências da Computação na UNICSUL,sempre busco aprender e acom
   <a href="https://www.linkedin.com/in/luiz-eduardo-ara%C3%BAjo-8a63151ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
      target="_blank"></a> 
 </div>
-<br><br><br><br>
+<br>
 <p align="center">Seja bem-vindo(a)! 😄</p>
